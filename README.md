@@ -15,7 +15,7 @@ The projects demonstrate how statistical methods can support evidence-based deci
 
 **Techniques:** Sampling, proportions, standard error and confidence intervals.
 
-[View Project 1](https://github.com/YOUR-USERNAME/PROJECT-1-REPOSITORY)
+[View Project 1](https://github.com/bitrusemmanuel101-rgb/antibiotic-resistance-confidence-intervals)
 
 ## Project 2: Hypothesis Testing
 **Title:** Comparing Antibiotic Resistance Across Groups
