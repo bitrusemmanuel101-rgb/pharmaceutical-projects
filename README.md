@@ -24,7 +24,7 @@ The projects demonstrate how statistical methods can support evidence-based deci
 
 **Techniques:** Hypothesis testing, p-values and statistical significance.
 
-[View Project 2](https://github.com/bitrusemmanuel101-rgb/antibiotic-resistance-hypothesis-testing)
+[View Project 2](https://github.com/bitrusemmanuel101-rgb/industry-vs-non_industry-clinical-trial-hypothesis-testing.git)
 
 ## Project 3: A/B Testing
 **Title:** Evaluating Antibiotic Treatment Outcomes
