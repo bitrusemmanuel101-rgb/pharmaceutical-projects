@@ -33,7 +33,7 @@ The projects demonstrate how statistical methods can support evidence-based deci
 
 **Techniques:** Experimental design, hypothesis testing, confidence intervals and effect sizes.
 
-[View Project 3](https://github.com/bitrusemmanuel101-rgb/antibiotic-clinical-trial-ab-testing)
+[View Project 3](https://github.com/bitrusemmanuel101-rgb/gepotidacin-vs-nitrofurantoin-ab-test.git)
 
 ## Tools and Technologies
 - Python
